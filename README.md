@@ -30,7 +30,7 @@ GET /api/github/{username}
 }
 ```
 
-Technologie
+### Technologie
 Java 21
 
 Spring Boot 3.5
